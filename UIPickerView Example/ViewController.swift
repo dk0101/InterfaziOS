@@ -13,7 +13,7 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
 {
     @IBOutlet weak var pickerView: UIPickerView!
     
-   
+   //arreglo
     var pickerDataSource = ["Chica", "Mediana", "Grande"];
 
     
